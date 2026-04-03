@@ -1,1 +1,5 @@
-# MISADDONSKODI
+[KOPDISPAIN](plugin.program.kodispainwizard-2.0.7.zip)
+[Context Elementum](context.elementum-0.0.15.zip)
+[Balandro](plugin.video.balandro-4.0.27.zip)
+[Repositorio Alfa](repository.alfa-addon.zip)
+[Elementum Burst](script.elementum.burst-0.0.98.zip)
